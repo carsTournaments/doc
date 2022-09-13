@@ -2,7 +2,9 @@
 description: Documentación oficial de CarsTournaments.
 ---
 
-# CarsTournaments
+# Documentación
+
+<img src="images/banner.png" alt="" data-size="original">
 
 ¡Bienvenido!
 
