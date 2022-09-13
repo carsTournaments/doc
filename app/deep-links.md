@@ -23,6 +23,6 @@ adb shell am start -a android.intent.action.VIEW -d https://carstournaments.cars
 La url siguiente, siempre tiene que estar funcionando, es donde indica el hash de la firma y el nombre del paquete
 [https://carstournaments.carsites.es/.well-known/assetlinks.json](https://carstournaments.carsites.es/.well-known/assetlinks.json)
 
-## Comprobar APK firmada
+## Comprobar APK firmada<>
 
 `apksigner verify --print-certs`
