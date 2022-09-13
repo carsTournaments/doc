@@ -1,6 +1,0 @@
----
-description: Proximamente...
----
-
-# Configuración App
-
