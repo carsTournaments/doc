@@ -4,7 +4,9 @@ description: Documentación oficial de CarsTournaments.
 
 # Documentación
 
-<img src="images/banner.png">
+<div align="center">
+  <img src="images/banner.png" />
+</div>
 
 ¡Bienvenido!
 
