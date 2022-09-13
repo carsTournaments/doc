@@ -1,3 +1,4 @@
-# Resumen
+# Table of contents
 
-* [Configuracion inicial](section1/init-config.md)
+* [README](README.md)
+* [Configuracion inicial](configuracion-inicial.md)
