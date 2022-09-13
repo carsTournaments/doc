@@ -7,3 +7,4 @@
 * [Backend](backend/README.md)
   * [Configuración Inicial](backend/configuracion-inicial.md)
   * [Base de datos](backend/db.md)
+  * [Tips](backend/tips.md)
