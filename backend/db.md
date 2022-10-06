@@ -11,18 +11,8 @@ Actualmente estamos usando dos entornos
 
 En los dos entornos, estamos usando **MongoDB Cloud** ([www.mongodb.com](https://www.mongodb.com)), en su version gratuita
 
-## Estructura
 
-* [brands](modelos/brands.md)
-* cars
-* images
-* inscriptions
-* likes
-* literals
-* menus
-* notifications
-* otas
-* pairings
-* reports
-* rounds
-* settings
+
+Puedes ver los modelos de la base de datos [aquí](modelos/)
+
+##

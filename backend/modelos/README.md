@@ -13,3 +13,4 @@
 * Report
 * Round
 * Settings
+* [Tournament](tournament.md)
