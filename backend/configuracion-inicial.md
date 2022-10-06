@@ -1,9 +1,16 @@
-# Configuración Backend
+# Configuración Inicial
 
 Para poder iniciar el proyecto necesitamos tener en la raiz, un archio .env con los siguientes datos
 
+### PRO
+
+```
+...
 ```
 
+### UAT
+
+```
 GOOGLE_APPLICATION_CREDENTIALS=""
 JWT_SECRET=""
 LOGS_ERROR=""
@@ -29,5 +36,4 @@ SSH_KEY=""
 SSH_PORT=""
 FCM_SERVER_KEY=""
 GITHUB_TOKEN=""
-
 ```
