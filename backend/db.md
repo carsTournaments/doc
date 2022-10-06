@@ -6,10 +6,10 @@ description: Informacion sobre la base de datos
 
 Actualmente estamos usando dos entornos
 
-* PRO
-* UAT
+* ****[**PRO**](configuracion-inicial.md#pro)****
+* ****[**UAT**](configuracion-inicial.md#dev)****
 
-En los dos entornos, estamos usando MongoDB Cloud, en su version gratuita
+En los dos entornos, estamos usando **MongoDB Cloud** ([www.mongodb.com](https://www.mongodb.com)), en su version gratuita
 
 ## Estructura
 
