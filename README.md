@@ -4,15 +4,13 @@ description: Documentación oficial de CarsTournaments.
 
 # Documentación
 
-![](images/banner.png)
+![](.gitbook/assets/banner.png)
 
 ¡Bienvenido!
 
 Si es la primera vez que pasas por estos sitios, puedes conocer un poco mas como funciona el proyecto, o seguir los primeros pasos para poder ejecutarlo en local
 
-
-
-[![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)&#x20;
+[![Deploy](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/deploy.yml) [![Deploy PWA](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/firebase-hosting-merge.yml)
 
 [![CI](https://github.com/carsTournaments/backend/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/backend/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/app/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/app/actions/workflows/ci.yml) [![CI](https://github.com/carsTournaments/admin/actions/workflows/ci.yml/badge.svg)](https://github.com/carsTournaments/admin/actions/workflows/ci.yml)
 
