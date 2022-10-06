@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Documentación](README.md)
+  * [Contribucion](readme/contribucion.md)
 * [App](app/README.md)
   * [DeepLinks](app/deep-links.md)
   * [Distribución](app/distribucion.md)
@@ -10,4 +11,5 @@
   * [Base de datos](backend/db.md)
   * [Modelos](backend/modelos/README.md)
     * [Brands](backend/modelos/brands.md)
+    * [Tournament](backend/modelos/tournament.md)
   * [Tips](backend/tips.md)
